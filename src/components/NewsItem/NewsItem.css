@@ -1,0 +1,18 @@
+.card{
+  height: 500px;
+  position: relative;
+}
+
+.card-img-top{
+  height: 250px;
+}
+
+.card-body{
+  height:250px;
+}
+
+.btn{
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+}

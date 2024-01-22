@@ -1,0 +1,23 @@
+.heading{
+  margin-top: 5rem;
+}
+
+.navigate-btn{
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+
+}
+
+.navigate-btn:hover{
+  background-color: grey;
+}
+
+.navigate-btn:disabled{
+  background-color: grey;
+}
+
+.container{
+  font-family: sans-serif;
+}
+

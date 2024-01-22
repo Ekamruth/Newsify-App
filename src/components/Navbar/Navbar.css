@@ -1,0 +1,16 @@
+.nav-link{
+  color: white;
+}
+
+.nav-link:hover{
+  color: lightskyblue;
+  
+}
+
+.navbar-nav>a{
+  margin: 0 0.5rem;
+}
+
+.navbar-brand{
+  margin-left: 1rem;
+}
